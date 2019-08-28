@@ -1,0 +1,48 @@
+# vsim -lib work -c -do "run -all" tb_openMSP430 omsp_dbg_i2c omsp_dbg_hwbrk omsp_clock_mux 
+# Loading work.tb_openMSP430
+# Loading work.ram
+# Loading work.openMSP430
+# Loading work.omsp_clock_module
+# Loading work.omsp_and_gate
+# Loading work.omsp_scan_mux
+# Loading work.omsp_sync_cell
+# Loading work.omsp_clock_gate
+# Loading work.omsp_sync_reset
+# Loading work.omsp_frontend
+# Loading work.omsp_execution_unit
+# Loading work.omsp_register_file
+# Loading work.omsp_alu
+# Loading work.omsp_mem_backbone
+# Loading work.omsp_sfr
+# Loading work.omsp_wakeup_cell
+# Loading work.omsp_watchdog
+# Loading work.omsp_multiplier
+# Loading work.omsp_dbg
+# Loading work.omsp_dbg_uart
+# Loading work.omsp_gpio
+# Loading work.omsp_timerA
+# Loading work.template_periph_8b
+# Loading work.template_periph_16b
+# Loading work.io_cell
+# Loading work.msp_debug
+# Loading work.omsp_dbg_i2c
+# Loading work.omsp_dbg_hwbrk
+# Loading work.omsp_clock_mux
+# run -all
+#  ===============================================
+# |                 START SIMULATION              |
+#  ===============================================
+#  ===============================================
+# |               SIMULATION FAILED               |
+# |              (simulation Timeout)             |
+#  ===============================================
+# 
+# DMA REPORT: Total Accesses:           0 Total RD:           0 Total WR:           0
+#             Total Errors:             0 Error RD:           0 Error WR:           0
+# 
+# SIMULATION SEED:           0
+# 
+# ** Note: $finish    : ../../../bench/verilog/tb_openMSP430.v(718)
+#    Time: 500 us  Iteration: 0  Instance: /tb_openMSP430
+# End time: 01:59:00 on Aug 30,2017, Elapsed time: 0:00:09
+# Errors: 0, Warnings: 0

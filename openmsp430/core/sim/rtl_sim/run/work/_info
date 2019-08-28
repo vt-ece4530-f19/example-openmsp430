@@ -1,0 +1,656 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Patrick Schaumont/Desktop/lecture01-082917-code/openmsp430/core/sim/rtl_sim/run
+vio_cell
+Z1 !s110 1504054731
+!i10b 1
+!s100 _jS0`gPJD7H4bI>dVUUf:2
+Ij4UZeD=:UFWQb@1^W_lnc1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1502792427
+8../../../bench/verilog/io_cell.v
+F../../../bench/verilog/io_cell.v
+Z4 L0 44
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1504054731.000000
+Z7 !s107 ../../../rtl/verilog/periph//omsp_timerA_undefines.v|../../../rtl/verilog/periph//omsp_timerA_defines.v|stimulus.v|../../../bench/verilog//dma_tasks.v|../../../bench/verilog//dbg_i2c_tasks.v|../../../bench/verilog//dbg_uart_tasks.v|../../../bench/verilog//registers.v|../../../rtl/verilog//openMSP430_defines.v|../../../bench/verilog//timescale.v|../../../rtl/verilog/periph/template_periph_16b.v|../../../rtl/verilog/periph/template_periph_8b.v|../../../rtl/verilog/periph/omsp_timerA.v|../../../rtl/verilog/periph/omsp_gpio.v|../../../rtl/verilog/omsp_clock_mux.v|../../../rtl/verilog/omsp_clock_gate.v|../../../rtl/verilog/omsp_wakeup_cell.v|../../../rtl/verilog/omsp_and_gate.v|../../../rtl/verilog/omsp_scan_mux.v|../../../rtl/verilog/omsp_sync_cell.v|../../../rtl/verilog/omsp_sync_reset.v|../../../rtl/verilog/omsp_multiplier.v|../../../rtl/verilog/omsp_dbg_hwbrk.v|../../../rtl/verilog/omsp_dbg_i2c.v|../../../rtl/verilog/omsp_dbg_uart.v|../../../rtl/verilog/omsp_dbg.v|../../../rtl/verilog/omsp_watchdog.v|../../../rtl/verilog/omsp_mem_backbone.v|../../../rtl/verilog/omsp_clock_module.v|../../../rtl/verilog/omsp_sfr.v|../../../rtl/verilog/omsp_alu.v|../../../rtl/verilog/omsp_register_file.v|../../../rtl/verilog/omsp_execution_unit.v|../../../rtl/verilog/omsp_frontend.v|../../../rtl/verilog/openMSP430.v|../../../rtl/verilog/openMSP430_defines.v|../../../bench/verilog/msp_debug.v|../../../bench/verilog/io_cell.v|../../../bench/verilog/ram.v|../../../bench/verilog/tb_openMSP430.v|
+Z8 !s90 +acc=prn|-f|../src/submit.f|+define+SEED=0|+define+NO_DMA_VERIF|-R|-c|-do|run -all|
+!i113 1
+Z9 o+acc=prn
+Z10 !s92 +acc=prn +incdir+../../../bench/verilog/ +incdir+../../../rtl/verilog/ +incdir+../../../rtl/verilog/periph/ +define+SEED=0 +define+NO_DMA_VERIF
+Z11 tCvgOpt 0
+vmsp_debug
+R1
+!i10b 1
+!s100 SFH8=k021R3;fH?=4emRS0
+ITm`Y`TKI6YcH@G1_;YLES1
+R2
+R0
+R3
+8../../../bench/verilog/msp_debug.v
+F../../../bench/verilog/msp_debug.v
+L0 43
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_alu
+R1
+!i10b 1
+!s100 6Yb]BEU_1IDI?]<ejYz0<1
+ID]M:Qehkh=;ZnaPYgP:8n2
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_alu.v
+F../../../rtl/verilog/omsp_alu.v
+Z12 L0 48
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_and_gate
+R1
+!i10b 1
+!s100 AeL^DOWaRo]N7aGSF]S9U3
+IMh1H`OfUd>H<zGjzVS8Ma1
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_and_gate.v
+F../../../rtl/verilog/omsp_and_gate.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_clock_gate
+R1
+!i10b 1
+!s100 Ui7]YOFI]8=n6VZ[m]FPB1
+IbUZ;cz5TI2fzn^0TFjHQZ2
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_clock_gate.v
+F../../../rtl/verilog/omsp_clock_gate.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_clock_module
+R1
+!i10b 1
+!s100 OlSIkj:hoDjVo];<aSlFT1
+IJZ2Y<dKMdaf?^7JWaIibI1
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_clock_module.v
+F../../../rtl/verilog/omsp_clock_module.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_clock_mux
+R1
+!i10b 1
+!s100 MO`>WgDmShT25bEz9?>H90
+I2P=EM5RJ;fA0i`23nE92n3
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_clock_mux.v
+F../../../rtl/verilog/omsp_clock_mux.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_dbg
+R1
+!i10b 1
+!s100 Z4A1]bSBo9RlYEC61dQK<3
+IBW_DXiNi;TU]_<iFg;UP80
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_dbg.v
+F../../../rtl/verilog/omsp_dbg.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_dbg_hwbrk
+R1
+!i10b 1
+!s100 ZE06<[zD_@Gf;`iAadPk:3
+I[NH44Djd2_ClMK==<fdTo3
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_dbg_hwbrk.v
+F../../../rtl/verilog/omsp_dbg_hwbrk.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_dbg_i2c
+R1
+!i10b 1
+!s100 6NzSjHX=Z`JlS@G;2LlOF2
+I3XB>?@=1M2a0HX[F<LPkN1
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_dbg_i2c.v
+F../../../rtl/verilog/omsp_dbg_i2c.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_dbg_uart
+R1
+!i10b 1
+!s100 PcL<BdmQ3f>mLhONi6`TG1
+IN5<[0l4LYT5Nh]RY4DXR33
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_dbg_uart.v
+F../../../rtl/verilog/omsp_dbg_uart.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_execution_unit
+R1
+!i10b 1
+!s100 U;zMU6Z5an<gHTkgf0Qdz0
+IFYQI`=U?P<<BX;eWC2C_W0
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_execution_unit.v
+F../../../rtl/verilog/omsp_execution_unit.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_frontend
+R1
+!i10b 1
+!s100 05<=M9W_=nfZ31ZmFAA@_3
+IIQ>XK>f`cEZ?6il0@0zmZ0
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_frontend.v
+F../../../rtl/verilog/omsp_frontend.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_gpio
+R1
+!i10b 1
+!s100 9]^3WI3C[SjXk<EhjeebU0
+IChnaaE;ELNOSOf6=ULZiA3
+R2
+R0
+R3
+8../../../rtl/verilog/periph/omsp_gpio.v
+F../../../rtl/verilog/periph/omsp_gpio.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_mem_backbone
+R1
+!i10b 1
+!s100 K7_e9<LPH:G>KSnN;YUX]0
+Iz:VUXhfWQ3QYG5H@1DVVd1
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_mem_backbone.v
+F../../../rtl/verilog/omsp_mem_backbone.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_multiplier
+R1
+!i10b 1
+!s100 7zgZJ6EFnSeE`lQfB[:_b2
+InKk]4ogSdFh?7g<g4aa292
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_multiplier.v
+F../../../rtl/verilog/omsp_multiplier.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_register_file
+R1
+!i10b 1
+!s100 81XdVDzb0:]Q[<2Smzg`H2
+IK4]zDD1?PSP@09_Bd[ZlL2
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_register_file.v
+F../../../rtl/verilog/omsp_register_file.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_scan_mux
+R1
+!i10b 1
+!s100 ejD>^]bo_=HW?[Wkl_46j3
+IZ5HSh<b]2Wn]V3=6@J0jL0
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_scan_mux.v
+F../../../rtl/verilog/omsp_scan_mux.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_sfr
+R1
+!i10b 1
+!s100 BJ77gIP=MOeV?Lkd98D:h0
+IZBHe1ZFQ?]BV?2B8;AUg93
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_sfr.v
+F../../../rtl/verilog/omsp_sfr.v
+L0 49
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_sync_cell
+R1
+!i10b 1
+!s100 [mnR<9O1_EO`UFa:8D]_;3
+IhhfWi[1QL>g^1i<:4:oMT1
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_sync_cell.v
+F../../../rtl/verilog/omsp_sync_cell.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_sync_reset
+R1
+!i10b 1
+!s100 d8?`m55[hZB83RAOX70R33
+ICfUQQUe>J6aO2n8H:P[[S0
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_sync_reset.v
+F../../../rtl/verilog/omsp_sync_reset.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_timerA
+R1
+!i10b 1
+!s100 D6EW_=EXdFAUf@XKSdR4z0
+IO0O7gG;GDX;@<F2R7clgG1
+R2
+R0
+R3
+8../../../rtl/verilog/periph/omsp_timerA.v
+F../../../rtl/verilog/periph/omsp_timerA.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+nomsp_timer@a
+vomsp_wakeup_cell
+R1
+!i10b 1
+!s100 <MZ[@SmPdbN1m6cD@fVkH0
+IBQ@kOcbS7bEcd6EFRU^Kg2
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_wakeup_cell.v
+F../../../rtl/verilog/omsp_wakeup_cell.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vomsp_watchdog
+R1
+!i10b 1
+!s100 0Q:X3KfEjT;FcV`1R6zX71
+ILBZXDbJf?hST0E7XLdIzb0
+R2
+R0
+R3
+8../../../rtl/verilog/omsp_watchdog.v
+F../../../rtl/verilog/omsp_watchdog.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vopenMSP430
+R1
+!i10b 1
+!s100 FV5;lOZ@ocO4I:JUfkK=23
+IGKL:g@FjI7lmRC_KY9CN;3
+R2
+R0
+R3
+8../../../rtl/verilog/openMSP430.v
+F../../../rtl/verilog/openMSP430.v
+R12
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+nopen@m@s@p430
+vram
+R1
+!i10b 1
+!s100 kJW_lFz<od<FGH]mS:D5W1
+I9UK4CR67`@k<5nPa9[PLB1
+R2
+R0
+R3
+8../../../bench/verilog/ram.v
+F../../../bench/verilog/ram.v
+L0 39
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vtb_openMSP430
+R1
+!i10b 1
+!s100 T[GW9fFOT4:V4UCB4[2zn0
+I<9g3BHe4E3<IG`onFAnZE1
+R2
+R0
+w1504036730
+8../../../bench/verilog/tb_openMSP430.v
+F../../../bench/verilog/tb_openMSP430.v
+F../../../bench/verilog//registers.v
+F../../../bench/verilog//dbg_uart_tasks.v
+F../../../bench/verilog//dbg_i2c_tasks.v
+F../../../bench/verilog//dma_tasks.v
+Fstimulus.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+ntb_open@m@s@p430
+vtemplate_periph_16b
+R1
+!i10b 1
+!s100 _6FSWSc4`l=z16ol]z6JR0
+I0n9;biMbI82bXRe3JOTi_2
+R2
+R0
+R3
+8../../../rtl/verilog/periph/template_periph_16b.v
+F../../../rtl/verilog/periph/template_periph_16b.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11
+vtemplate_periph_8b
+R1
+!i10b 1
+!s100 RHg`ESDB6M41K^KVz2Aza0
+I1<ICh5V[3f00jG6Agl^<l3
+R2
+R0
+R3
+8../../../rtl/verilog/periph/template_periph_8b.v
+F../../../rtl/verilog/periph/template_periph_8b.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+R11

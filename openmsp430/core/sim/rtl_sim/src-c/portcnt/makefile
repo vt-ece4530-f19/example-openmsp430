@@ -3,7 +3,7 @@ NAME            = portcnt
 OBJECTS         = main.o
 
 # base
-MSPBASE=/cygdrive/c/ti/msp430_gcc/bin
+MSPBASE=/cygdrive/c/ti/msp430-gcc/bin
 # configuration
 MSPCC=${MSPBASE}/msp430-elf-gcc
 MSPCCFLAGS=-Wall -mmcu=msp430c1111
